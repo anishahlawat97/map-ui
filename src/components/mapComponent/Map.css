@@ -1,0 +1,13 @@
+.leaflet-container{    
+    height: 100%;
+    width: 100%;   
+}
+
+.map{
+    width: 100%;
+    height: 620px;    
+}
+
+.infoCard{
+    font-weight: bold;
+}

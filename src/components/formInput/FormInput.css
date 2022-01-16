@@ -1,0 +1,10 @@
+.site-card-border-less-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+[data-theme='compact'] .ant-drawer-body p {
+    margin-bottom: 0;
+  }
