@@ -1,3 +1,8 @@
+# Project Title and Description
+
+Title: Map UI
+Description: This project is used to load the map of the country selected along with some information related to that country.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
